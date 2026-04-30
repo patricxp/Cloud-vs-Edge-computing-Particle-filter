@@ -101,7 +101,7 @@ Pengujian ini **belum mencakup end-to-end latency** (waktu total dari pengiriman
 ---
 
 🔗 Link
-YouTube: [-](https://www.youtube.com/watch?v=roBRAQ4FuuM)
+[YouTube](https://www.youtube.com/watch?v=roBRAQ4FuuM)
 
 ---
 
