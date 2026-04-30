@@ -100,11 +100,8 @@ Pengujian ini **belum mencakup end-to-end latency** (waktu total dari pengiriman
 
 ---
 
-## 🚀 Future Work
-
-* Pengukuran **end-to-end latency**
-* Optimasi jumlah partikel (trade-off performa vs akurasi)
-* Implementasi pada **robot / sistem kontrol real-time**
+🔗 Link
+YouTube: [-](https://www.youtube.com/watch?v=roBRAQ4FuuM)
 
 ---
 
